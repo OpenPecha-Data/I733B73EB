@@ -1,0 +1,16 @@
+id: I733B73EB
+default_language: bo
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:54:55.230971
+last_modified: 2023-02-09 14:54:55.231067
+source_metadata:
+  title: 'RK: Bodhisatvapiṭaka'
+  language: bo
+bases:
+  7AAA:
+    base_file: 7AAA.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
